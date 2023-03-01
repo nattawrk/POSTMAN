@@ -1,6 +1,6 @@
-# POSTMAN (Задания, которые необходимо выполнить)
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# POSTMAN (Задания)
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/3o6ZsSW631Rw0zF9io/giphy.gif" width="500"/>
 </div>
 
 
